@@ -1,4 +1,4 @@
-# clone da Intefarce do Netflix.
+# Clone da Intefarce do Netflix.
 
 Utilizei as seguintes tecnologias:
 
